@@ -12,5 +12,8 @@
   "peerDependencies": {
     "umi": "latest"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "umi": "^3.5.20"
+  }
 }
